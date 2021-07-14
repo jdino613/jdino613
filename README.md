@@ -10,6 +10,7 @@
 ![PHP](https://img.icons8.com/color/30/php.png)
 ![SASS](https://img.icons8.com/color/30/sass.png)
 ![NPM](https://img.icons8.com/color/30/npm.png)
+![Git](https://img.icons8.com/color/30/git.png)
 ![ReactJS](https://img.icons8.com/color/30/react-native.png)
 ![AWS](https://img.icons8.com/color/30/000000/amazon-web-services.png)
 ![MongoDB](https://img.icons8.com/color/30/000000/mongodb.png)
