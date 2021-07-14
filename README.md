@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Janica!
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Nice+to+meet+you!;I'm+a+Full+Stack+Developer;Taking+up+Master+of+Business+%26+Science+degree;at+Rutgers+University;and+I'm+a+Entrepreneur)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Nice+to+meet+you!;I'm+a+Full+Stack+Developer;Taking+up+Master+of+Business+%26+Science+degree;at+Rutgers+University;and+I'm+a+Entrepreneur!)](https://git.io/typing-svg)
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/jlimpin613/) [![IG](https://img.shields.io/badge/Instagram-%23E1306C.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/janica_dino/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janica-dino-58a3a71a1/)
 ## 🔧 Technologies
