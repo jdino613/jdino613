@@ -20,8 +20,7 @@
 
 [![Beyond Coding Music](https://img.shields.io/badge/Beyond%20Coding-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0zM94RfkhhsKk2oxXBSPsZ)
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=12168898153&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=12168898153&cover_image=true&theme=natemoo-re)]]
-
+[![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=12168898153&redirect=true)](https://open.spotify.com/user/12168898153)
 
 <!--
 **jdino613/jdino613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
