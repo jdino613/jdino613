@@ -17,9 +17,9 @@
 
 ## 🎧 Spotify Playing
 
-[![Beyond Coding Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0zM94RfkhhsKk2oxXBSPsZ)
+[![Beyond Coding Music](https://img.shields.io/badge/Beyond%20Coding-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0zM94RfkhhsKk2oxXBSPsZ)
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=12168898153&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view.svg?uid=12168898153&redirect=true)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=12168898153&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=12168898153&cover_image=true&theme=natemoo-re)]]
 
 
 <!--
