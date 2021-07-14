@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I'm Janica!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Nice+to+meet+you!;I'm+a+Full+Stack+Developer;Taking+up+Master+of+Business+%26+Science+degree;at+Rutgers+University;and+I'm+a+Entrepreneur)](https://git.io/typing-svg)
 
+### Technologies
+![html](https://camo.githubusercontent.com/4661eb242594e5ba394eb5a20f24a46776f187304d50ad690105b99178d2e3c3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f68746d6c2d352e706e67)
+![css](https://camo.githubusercontent.com/4fdeab7e775dbfb1cca495f10c5847f005054e55e6b91baa2ae09153ccf09d98/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f637373332e706e67)
+![js](https://camo.githubusercontent.com/97cf4f8a9d6cc9cc3e930804c2819825bfb6dce51799d4ccecfc5bf766030a9a/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f6a6176617363726970742e706e67)
+![node](https://camo.githubusercontent.com/81f543ea1060080eb238ea885f538a097943a9b3ba30e8de5cd3dd3d53bc76e4/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f6e6f64656a732e706e67)
+![alt text](https://camo.githubusercontent.com/898b8f22f0aa6342c492faac0a0e280f217281d2819d9b7231e5ed0f32b02663/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f6e706d2e706e67)
+![sass](https://camo.githubusercontent.com/6ad86fb32b7869535fbb7c0b0bc2d1f7a21294f991936b0ccdbdaa98e5ea3e2d/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f736173732e706e67)
+![react](https://camo.githubusercontent.com/8e9c6ff9a7a9aac5b41dd49c78f03383e34c46d3bbf1dc92cb8dc5625213f637/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f72656163742d6e61746976652e706e67)
+![git](https://camo.githubusercontent.com/3717b27c1e565195f0d0aefab75c5bd69a8c0abcd6211222a37fa1c65baedc53/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f6769742e706e67)
 <!--
 **jdino613/jdino613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
