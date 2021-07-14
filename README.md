@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Nice+to+meet+you!;I'm+a+Full+Stack+Developer;Taking+up+Master+of+Business+%26+Science+degree;at+Rutgers+University;and+I'm+a+Entrepreneur)](https://git.io/typing-svg)
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/jlimpin613/) [![IG](https://img.shields.io/badge/Instagram-%23E1306C.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/janica_dino/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janica-dino-58a3a71a1/)
-## Technologies
+## 🔧 Technologies
 ![HTML5](https://img.icons8.com/color/30/html-5.png)
 ![CSS3](https://img.icons8.com/color/30/css3.png)
 ![JavaScript](https://img.icons8.com/color/30/javascript.png)
@@ -19,8 +19,7 @@
 
 [![Beyond Coding Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0zM94RfkhhsKk2oxXBSPsZ)
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=12168898153&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=12168898153&cover_image=true&theme=natemoo-re)]
-
+[![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=12168898153&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view.svg?uid=12168898153&redirect=true)
 
 
 <!--
