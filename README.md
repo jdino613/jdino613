@@ -16,6 +16,7 @@
 ![AWS](https://img.icons8.com/color/30/000000/amazon-web-services.png)
 ![MongoDB](https://img.icons8.com/color/30/000000/mongodb.png)
 ![MySQL](https://img.icons8.com/color/30/000000/mysql-logo.png)
+![PostgreSQL](https://img.icons8.com/color/30/postgresql.png)
 
 ## 🎧 Spotify Playing
 
